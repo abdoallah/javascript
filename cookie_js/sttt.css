@@ -1,0 +1,17 @@
+.p1 {
+  background-color: aqua;
+  font-size: x-small;
+  border-radius: 20px;
+}
+.test {
+  font-style: italic;
+}
+.container {
+  background-color: rgb(199, 207, 202);
+  height: 50px;
+  border-radius: 10px;
+  text-align: center;
+}
+#s1 {
+  align-content: center;
+}
