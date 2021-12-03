@@ -1,0 +1,92 @@
+#big {
+  height: 350px;
+  background-color: rgb(33, 95, 75);
+  border-radius: 20px;
+  opacity: 1;
+
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.testt {
+  background-color: rgb(150, 75, 201);
+}
+#sdiv {
+  height: 80px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+#span {
+  margin-left: 20px;
+
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#text {
+  width: 90%;
+
+  border-radius: 20px;
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+
+  margin-left: 50px;
+}
+#spantext {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+#white {
+  margin-top: 15px;
+  height: 30px;
+  background-color: rgb(255, 255, 255);
+}
+#divinput {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#input1,
+#input2 {
+  border-radius: 10px;
+}
+#divinputdata {
+  height: 50px;
+}
+#inputdata {
+  margin-left: 20px;
+
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#google,
+#linkedin {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+#buttons {
+  margin-top: 30px;
+  height: 200px;
+}
+#chtml,
+#ctxt,
+#content,
+#multiply,
+#cstyle,
+#test {
+  background-color: #efecf1;
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+}
